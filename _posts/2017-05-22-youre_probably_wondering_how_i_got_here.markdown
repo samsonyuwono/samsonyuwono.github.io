@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  You're probably wondering how I got here
-date:   2017-05-22 13:10:44 +0000
+date:   2017-05-22 09:10:45 -0400
 ---
 
 As with everyone graduating from college during or after the Great Recession, I constantly questioned the worth of my 4-year Bachelor’s degree. 

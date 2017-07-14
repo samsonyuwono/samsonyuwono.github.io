@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Making it all come together- My Sinatra Project Blog Post"
-date:   2017-07-14 17:10:24 +0000
+date:   2017-07-14 13:10:25 -0400
 ---
 
 

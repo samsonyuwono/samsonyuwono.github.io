@@ -7,7 +7,7 @@ date:   2017-08-24 15:46:02 -0400
 
 In a nutshell, Devise is a Rails engine that provides a lot of authentication needs. It has its own views, controllers, and defines it's own routes.
 
-![](http://imgur.com/a/XtRSU)
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/XtRSU"><a href="//imgur.com/XtRSU"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 
 The view above for Devise's sign up page is provided by running `$ rails generate devise:views users`
 

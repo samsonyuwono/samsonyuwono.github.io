@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Trust the process"
-date:   2017-08-29 15:15:48 +0000
+date:   2017-08-29 11:15:49 -0400
 ---
 
 ![](http://cdn-s3.si.com/s3fs-public/2016/10/26/joel-embiid-76ers-heat.jpg)

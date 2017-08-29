@@ -12,7 +12,7 @@ As I started my Rails project, I pondered what I would do differently in the ear
 
 The first step was to brainstorm everything I had in my mind for the project onto a piece of paper. From there, I made a summary of how I wanted my app to function. I then took these ideas and adjusted them for each requirement. 
 
-![](http://http://imgur.com/W9RxUAR.jpg)
+![](<a href="http://imgur.com/W9RxUAR"><img src="http://i.imgur.com/W9RxUAR.png" title="source: imgur.com" /></a>)
 
 After that, I came up with a step by step plan of what I wanted to accomplish. A brief sampling of my plan is below.
 

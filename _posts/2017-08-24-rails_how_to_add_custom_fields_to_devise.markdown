@@ -18,8 +18,9 @@ I was very wrong in that assumption and within this blog post I am going to prov
 **Step 1**
 Go to `config/initializers/devise.rb` 
 Uncomment the line below and change to "true".
-![](http://imgur.com/a/81KpW)
-![](http://imgur.com/a/krjdW)
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/81KpW"><a href="//imgur.com/81KpW"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/krjdW"><a href="//imgur.com/krjdW"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 
 **Step 2**
 
@@ -28,7 +29,7 @@ In this step, we will create a new migration.
 
 Fill out your generated DB file with your desired fields similar to the image below. Migrate your new file with `rake db:migrate` after the file has been filled out.
 
-![](http://imgur.com/a/ItOtX)
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/ItOtX"><a href="//imgur.com/ItOtX"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 
 Note: Do not try to add your custom columns in your initial Devise migration, it will not work.
 
@@ -36,10 +37,11 @@ Note: Do not try to add your custom columns in your initial Devise migration, it
 
 Go to `app/views/users/registration/new.html.erb` or `app/views/users/registration/edit.html.erb`. From here you can now add your custom fields to your sign up or edit form.
 
-![](http://imgur.com/a/Tfmia)
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/Tfmia"><a href="//imgur.com/Tfmia"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 
-Your sign up page should look similar to the image below.
-![](http://imgur.com/a/2phWx)
+Your sign up page should look something like the image below.
+
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/2phWx"><a href="//imgur.com/2phWx"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 
 That's it! You now have the ability to add custom fields to your user sign up and edit pages. 
 

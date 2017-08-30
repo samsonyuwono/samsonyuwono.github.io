@@ -35,7 +35,7 @@ For example:  `(1== "1")` returns true
 
 The second example returns false because the comparison is between a number and a string. Therefore, if the second value was a number, the statement would return true. In a nutshell, the triple equals sign will return true if the two objects were the same typeof and value.
 
-typeof vs .class
+`typeof vs .class`
 When I referred to typeof in the last paragraph I am referring to how JS determines the value of something. The values including but not limited to number, string, or an array.  In Ruby, .class is the equivalent of typeof. The images below outline the similarities.
 
 <blockquote class="imgur-embed-pub" lang="en" data-id="a/qt81e"><a href="//imgur.com/qt81e"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>

@@ -1,15 +1,13 @@
 ---
 layout: post
 title:  "Intro to Javascript - Things to note"
-date:   2017-08-30 15:04:13 +0000
+date:   2017-08-30 11:04:14 -0400
 ---
 
 After coding and writing applications in Ruby for 3 months, the Flatiron School syllabus has finally brought me back into Javascript.
 
 Now that I'm reviewing my first programming language. I wanted to provide the Learn community with a few tidbits and notes on a few syntactic differences between Javascript and Ruby.
 
-
-**Syntactic Differences**
 One of the biggest syntactic differences I noticed in my transition back to JS was the emphasis on defining every variable.
 
 For example in Ruby a variable would typically be defined like this: 

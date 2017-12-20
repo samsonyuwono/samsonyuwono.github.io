@@ -17,7 +17,7 @@ For my final project,  I decided to create a rec league app that uses CRUD. My a
 
 One of my biggest challenges when building this project was building a team how page that would display a team's roster. In order to accomplish this task, I used my existing team and player actions that I already had. I then used actions in componentDidMount().
 
-![](http://imgur.com/a/GBQB7)
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/GBQB7"><a href="//imgur.com/GBQB7"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 
 My further plans for this project is to add authentication and team standings. 
 

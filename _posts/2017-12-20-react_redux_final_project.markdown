@@ -8,8 +8,8 @@ permalink:  react_redux_final_project
 
 Please checkout my source code with the links below.
 
-[](http://github.com/samsonyuwono/rec-league-app/tree/master/rec-league-api
-[](http://github.com/samsonyuwono/rec-league-app/tree/master/rec-league-client
+[](http://github.com/samsonyuwono/rec-league-app/tree/master/rec-league-api)
+[](http://github.com/samsonyuwono/rec-league-app/tree/master/rec-league-client)
 
 Due to my obsession with NBA basketball, my original plan for my final project was to create an NBA team search engine that would display a team's current roster and statistics. Unfortunately, due to the cost of acquiring an api from various sources, I had to change my plan.
 

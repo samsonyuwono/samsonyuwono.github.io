@@ -1,6 +1,6 @@
 ---
 layout: post
-title:      "How does the Fetch API work"
+title:      "How does Fetch API work?"
 date:       2017-12-28 11:48:50 -0500
 permalink:  how_does_the_fetch_api_work
 ---
